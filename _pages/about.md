@@ -35,7 +35,8 @@ My work has appeared as preprints on arXiv.
 [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](https://arxiv.org/pdf/2511.17282)
 
 **Chuancheng Shi, Shangze Li, Shiming Guo**, Simiao Xie, Wenhua Wu, Jingtong Dou, Chao Wu, Canran Xiao, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
-
+</div>
+</div>
 
 
 - [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/pdf/2601.21900), **Chuancheng Shi, Shangze Li**, Wenjun Lu, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua, **ICML 2026**
