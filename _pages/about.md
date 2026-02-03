@@ -24,13 +24,12 @@ My work has appeared as preprints on arXiv.
 
 
 
-//# 🔥 News
-//- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](https://arxiv.org/pdf/2511.17282)
@@ -41,9 +40,7 @@ My work has appeared as preprints on arXiv.
 
 - [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/pdf/2601.21900), **Chuancheng Shi, Shangze Li**, Wenjun Lu, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua, **ICML 2026**
 
-//# 🎖 Honors and Awards
-//- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-//- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Education
 - *2025.09 - 2028.06 (now)*, M.S. Student,NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY
