@@ -35,8 +35,7 @@ My work has appeared as preprints on arXiv.
 [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](https://arxiv.org/pdf/2511.17282)
 
 **Chuancheng Shi, Shangze Li, Shiming Guo**, Simiao Xie, Wenhua Wu, Jingtong Dou, Chao Wu, Canran Xiao, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
-<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 </div>
 </div>
 
