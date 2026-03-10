@@ -40,7 +40,7 @@ My work has appeared as preprints on arXiv.
 </div>
 
 
-- [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/pdf/2601.21900), **Chuancheng Shi, Shangze Li**, Wenjun Lu, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua, **ICML 2026**
+- [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/pdf/2601.21900), **Chuancheng Shi, Shangze Li**, Wenjun Lu, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
 
 
 
