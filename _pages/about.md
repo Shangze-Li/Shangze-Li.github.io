@@ -29,7 +29,7 @@ My work has appeared as preprints on arXiv.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Highlight</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](https://arxiv.org/pdf/2511.17282)
@@ -39,11 +39,28 @@ My work has appeared as preprints on arXiv.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/Tracerouter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/pdf/2601.21900), **Chuancheng Shi, Shangze Li**, Wenjun Lu, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
+[TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/pdf/2601.21900)
+
+**Chuancheng Shi, Shangze Li, Wenjun Lu**, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/ACMMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Anomaly Knowledge Excavation: Unveiling Sparse Sensitive Neurons in Vision-Language Models](https://arxiv.org/pdf/2604.07802)
+
+**Shaotian Li, Shangze Li**, Chuancheng Shi, Wenhua Wu, Yanqiu Wu, Xiaohan Yu, Fei Shen, Tat-Seng Chua
+</div>
+</div>
 
 
 
+
+  
 # 📖 Education
 - *2025.09 - 2028.06 (now)*, M.S. Student,NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY
 - *2021.09 - 2025.06*, Undergraduate Student, HENAN UNIVERSITY
