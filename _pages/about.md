@@ -34,7 +34,7 @@ My work has appeared as preprints on arXiv.
 
 [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](https://arxiv.org/pdf/2511.17282)
 
-**Chuancheng Shi, Shangze Li, Shiming Guo**, Simiao Xie, Wenhua Wu, Jingtong Dou, Chao Wu, Canran Xiao, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
+Chuancheng Shi{\textsuperscript{\dag}}, **Shangze Li{\textsuperscript{\dag}}**, Shiming Guo{\textsuperscript{\dag}}, Simiao Xie, Wenhua Wu, Jingtong Dou, Chao Wu, Canran Xiao, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
 
 </div>
 </div>
@@ -44,7 +44,7 @@ My work has appeared as preprints on arXiv.
 
 [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](https://arxiv.org/pdf/2601.21900)
 
-**Chuancheng Shi, Shangze Li, Wenjun Lu**, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
+Chuancheng Shi, **Shangze Li**, Wenjun Lu, Wenhua Wu, Cong Wang, Zifeng Cheng, Fei Shen, Tat-Seng Chua
 </div>
 </div>
 
@@ -53,7 +53,7 @@ My work has appeared as preprints on arXiv.
 
 [Latent Anomaly Knowledge Excavation: Unveiling Sparse Sensitive Neurons in Vision-Language Models](https://arxiv.org/pdf/2604.07802)
 
-**Shaotian Li, Shangze Li**, Chuancheng Shi, Wenhua Wu, Yanqiu Wu, Xiaohan Yu, Fei Shen, Tat-Seng Chua
+Shaotian Li, **Shangze Li**, Chuancheng Shi, Wenhua Wu, Yanqiu Wu, Xiaohan Yu, Fei Shen, Tat-Seng Chua
 </div>
 </div>
 
