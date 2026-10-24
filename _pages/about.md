@@ -53,7 +53,7 @@ Chuancheng Shi†, **Shangze Li†**, Wenjun Lu†, Wenhua Wu, Cong Wang, Zifeng
 
 [TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport]
 
-Chuancheng Shi, **Shangze Li**, Wenhua Wu, Hengzhi Chen, Fei Shen, Li Zhuo, Zhiyong Wang, Tat-Seng Chua
+Chuancheng Shi†, **Shangze Li†**, Wenhua Wu, Hengzhi Chen, Fei Shen, Li Zhuo, Zhiyong Wang, Tat-Seng Chua
 </div>
 </div>
 
