@@ -48,6 +48,15 @@ Chuancheng Shi†, **Shangze Li†**, Wenjun Lu†, Wenhua Wu, Cong Wang, Zifeng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/Tracerouter++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport]
+
+Chuancheng Shi, **Shangze Li**, Wenhua Wu, Hengzhi Chen, Fei Shen, Li Zhuo, Zhiyong Wang, Tat-Seng Chua
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/ACMMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
